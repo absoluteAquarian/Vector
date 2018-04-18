@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vector2D{
+namespace Vectors{
 	public class Vector2D{
 		//True components of the vector
 		public double X;
